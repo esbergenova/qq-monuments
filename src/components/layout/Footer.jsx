@@ -54,18 +54,18 @@ export default function Footer() {
                 <MapPin className="w-4 h-4 text-primary/60" />
                 <span>ул. Сабыра Камалова, д. 30, кв. 26, Нукус</span>
               </div>
-              <div className="flex items-center gap-2 text-sm text-muted-foreground">
-                <Mail className="w-4 h-4 text-primary/60" />
-                <a href="mailto:alpamy04@mail.ru" className="hover:text-primary transition-colors">
-                  alpamy04@mail.ru
-                </a>
-              </div>
-              <div className="flex items-center gap-2 text-sm text-muted-foreground">
-                <span className="text-primary/60">📞</span>
-                <a href="tel:+998936144744" className="hover:text-primary transition-colors">
-                  +998 93 614 47 44
-                </a>
-              </div>
+             <div className="flex items-center gap-2 text-sm text-muted-foreground">
+  <Mail className="w-4 h-4 text-primary/60" />
+  <a href="mailto:alpamy04@mail.ru" className="hover:text-primary transition-colors">
+    alpamy04@mail.ru
+  </a>
+</div>
+<div className="flex items-center gap-2 text-sm text-muted-foreground">
+  <Mail className="w-4 h-4 text-primary/60" />
+  <a href="mailto:toremuratovaaysuliw@gmail.com" className="hover:text-primary transition-colors">
+    toremuratovaaysuliw@gmail.com
+  </a>
+</div>
             </div>
           </div>
 
