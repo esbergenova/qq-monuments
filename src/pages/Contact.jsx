@@ -82,6 +82,7 @@ export default function Contact() {
               <div>
                 <h3 className="font-semibold mb-1">{t('contact.email')}</h3>
                 <p className="text-sm text-muted-foreground">alpamy04@mail.ru</p>
+                <p className="text-sm text-muted-foreground">toremuratovaaysuliw@gmail.com</p>
               </div>
             </div>
 
