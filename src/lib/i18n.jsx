@@ -145,7 +145,7 @@ const translations = {
     hero: {
       title: 'Qaraqalpaqstannıń tariyxıy mirası',
       subtitle: 'Gadimgi qalalar, mavzoleyler, muzeyler hám muqaddes orınlar',
-      cta: 'Yadgorliklardı izlew',
+      cta: 'Edgerliklerdi izlew',
     },
     stats: {
       monuments: 'yadgorliklar', fortresses: 'gadimgi qalalar', years: 'jıllıq tariyx',
