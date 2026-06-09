@@ -27,7 +27,7 @@ const translations = {
     },
     about: {
       title: 'О проекте', mission: 'Наша миссия', team: 'Команда', goals: 'Цели',
-      missionText: 'Сайт создан преподавателями Нукусского Государственного технического университета кафедры Социально гуманитарных наук кандидатом исторических наук Есбергеновой Светланы Хожакметовной и Торемуратовой Айсылыу Калбаеаной, для тех кто интересуется традиционно бытовой культурой народов Южного Приаралья',
+      missionText: 'Сайт создан преподавателями Нукусского Государственного технического университета кафедры Социально гуманитарных наук кандидатом исторических наук Есбергеновой Светланы Хожакметовной и Торемуратовой Айсулыу Калбаеаной, для тех кто интересуется традиционно бытовой культурой народов Южного Приаралья',
     },
     contact: {
       title: 'Связаться с нами', name: 'Имя', email: 'Email', message: 'Сообщение', send: 'Отправить',
@@ -72,7 +72,7 @@ const translations = {
     },
     about: {
       title: 'About the Project', mission: 'Our Mission', team: 'Team', goals: 'Goals',
-      missionText: 'The website was created by the teachers of the Department of Social and Humanitarian Sciences of Nukus State Technical University — Candidate of Historical Sciences Svetlana Khozhakmetovna Esbergenova and Aisylu Kalbaevna Toremuratova — for those who are interested in the traditional everyday culture of the peoples of the Southern Aral Sea region.',
+      missionText: 'The website was created by the teachers of the Department of Social and Humanitarian Sciences of Nukus State Technical University — Candidate of Historical Sciences Svetlana Khozhakmetovna Esbergenova and Aysuliw Kalbaevna Toremuratova — for those who are interested in the traditional everyday culture of the peoples of the Southern Aral Sea region.',
     },
     contact: {
       title: 'Contact Us', name: 'Name', email: 'Email', message: 'Message', send: 'Send',
@@ -119,7 +119,7 @@ const translations = {
     },
     about: {
       title: 'Loyiha haqida', mission: 'Bizning vazifamiz', team: 'Jamoa', goals: 'Maqsadlar',
-      missionText: 'Sayt Nukus Davlat Texnika Universiteti Ijtimoiy-gumanitar fanlar kafedrasi oqituvchilari — tarix fanlari nomzodi Svetlana Xojakmetovna Esbergenova hamda Aysilu Kalbaevna Toremuratova tomonidan Janubiy Orolboyi xalqlarining ananaviy maishiy madaniyatiga qiziquvchilar uchun yaratilgan.',
+      missionText: 'Sayt Nukus Davlat Texnika Universiteti Ijtimoiy-gumanitar fanlar kafedrasi oqituvchilari — tarix fanlari nomzodi Svetlana Xojakmetovna Esbergenova hamda Aysuliw Kalbaevna Toremuratova tomonidan Janubiy Orolboyi xalqlarining ananaviy maishiy madaniyatiga qiziquvchilar uchun yaratilgan.',
     },
     contact: {
       title: 'Biz bilan bogʻlaning', name: 'Ism', email: 'Email', message: 'Xabar', send: 'Yuborish',
@@ -166,7 +166,7 @@ const translations = {
     },
     about: {
       title: 'Proyekt haqqında', mission: 'Bizdiń wazıypamız', team: 'Komanda', goals: 'Maqsetler',
-      missionText: 'Sayt Nókis Mámleketlik Texnika Universitetiniń Sociallıq-gumanitarlıq páńler kafedrası oqıtıwshıları — tariyx ilimleriniń kandidatı Svetlana Xojakmetovna Esbergenova hám Aysıluw Kalbaevna Toremuratova tárepinen Aral mańınıń qubla xalıqlarınıń dástúriy turmıs mádeniyatına qızıǵıwshılar ushın jaratılǵan.',
+      missionText: 'Sayt Nókis Mámleketlik Texnika Universitetiniń Social-gumanitar páńler kafedrası oqıtıwshıları — tariyx ilimleriniń kandidatı Svetlana Xojakmetovna Esbergenova hám Aysuliw Kalbaevna Toremuratova tárepinen Qubla Aral boyı xalıqlarınıń dástúriy turmıs mádeniyatına qızıǵıwshılar ushın jaratılǵan.',
     },
     contact: {
       title: 'Biz benen baylanısıń', name: 'Atıńız', email: 'Email', message: 'Xabar', send: 'Jiberiw',
